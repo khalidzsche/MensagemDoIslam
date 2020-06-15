@@ -17,7 +17,7 @@ Video Position: 17683
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,75,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,15,0,2,10,10,25,1
+Style: Default,Arial,60,&H00FFFFFF,&H000019FF,&H3A000000,&H48000000,0,0,0,0,100,100,0,0,3,4,0,2,10,10,25,1
 Style: Other,Roboto Slab,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.8,2,10,10,10,1
 
 [Events]
@@ -65,7 +65,7 @@ Dialogue: 0,0:10:29.89,0:10:46.10,Default,,0,0,0,,31. Assim destinamos a cada pr
 Dialogue: 0,0:10:46.10,0:11:05.26,Default,,0,0,0,,32. Os incrédulos dizem: "Se lhe tivesse sido revelado o Alcorão de uma só vez!" (Saibam que) assim procedemos para firmar com ele o teu coração, e to revelamos em versículos, paulatinamente.
 Dialogue: 0,0:11:05.26,0:11:14.73,Default,,0,0,0,,33. Sempre que te fizerem alguma refutação, comunicar-te-emos a verdade irrefutável e, dela, a melhor explanação.
 Dialogue: 0,0:11:14.73,0:11:36.00,Default,,0,0,0,,34. Aqueles que forem congregados, de bruços, ante o inferno, encontrar-se-ão em pior posição, e ainda mais desencaminhados.
-Dialogue: 0,0:11:36.00,0:11:47.47,Default,,0,0,0,,35. Havíamos concedido o Livro a Moisés e lhe designamos, como vizir, o seu irmão, Aarão.
+Dialogue: 0,0:11:36.00,0:11:47.47,Default,,0,0,0,, 35. Havíamos concedido o Livro a Moisés e lhe designamos, como vizir, o seu irmão, Aarão.
 Dialogue: 0,0:11:47.47,0:12:00.21,Default,,0,0,0,,36. E lhe dissemos: "Ide ao povo que desmentiu os Nossos Sinais." E os destruímos completamente.
 Dialogue: 0,0:12:00.21,0:12:17.78,Default,,0,0,0,,37. E afogamos o povo de Noé quando desmentiu os mensageiros, e fizemos dele um sinal para os humanos; e destinamos um doloroso castigo aos injustos.
 Dialogue: 0,0:12:17.78,0:12:28.31,Default,,0,0,0,,38. E (exterminamos) os povos de Ad, de Samud, e os habitantes de Arras e, entre eles, muitas gerações.
